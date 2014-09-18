@@ -15,6 +15,6 @@ Now you can use the Apple Dvorak Keyboard.
 2. For a better use, you need to execute the auxiliar software (Auxiliar Software folder) each time Windows starts.
 
 ##Known issues##
-1. In some cases, on the Login prompt of Windows change the layout to default. After you log in, Dvorak is actived automatically.
+1. In some cases, on the Login prompt of Windows change the layout to default. After you log in, Dvorak layout is actived automatically.
 
 

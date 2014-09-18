@@ -1,7 +1,6 @@
 #Dvorak International Layout for Apple Keyboards on Windows#
 
-A Dvorak International layout for exigent people that uses Apple Keyboard on Windows systems.
-
+You can use your Apple Bluetooth Keyboard with Dvorak layout, under Windows 7.
 
 ##How to use##
 1. Install the Dvorak layout. It's located in the **dist** folder. If you want to compile by yourserlf, just use the "Windows Keyboard Layout Editor" ( Keyboard Layout Editor installer installer folder) and open the **.klc** file.

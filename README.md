@@ -12,7 +12,7 @@ Now you can use the Apple Dvorak Keyboard.
 
 ##Tips##
 1. To active and deactive the Insert key, hold `fn` and press `Enter`.
-2. To better use, you need to execute the auxiliar software (Auxiliar Software folder) each time Windows starts.
+2. For a better use, you need to execute the auxiliar software (Auxiliar Software folder) each time Windows starts.
 
 ##Known issues##
 1. In some cases, on the Login prompt of Windows change the layout to default. After loadining, Dvorak is actived automatically.

@@ -1,4 +1,4 @@
-#Dvorak International Layout for Apple Keyboards on Windows#
+#Dvorak International Layout for Apple Bluetooth Keyboards on Windows#
 
 You can use your Apple Bluetooth Keyboard with Dvorak layout, under Windows 7.
 

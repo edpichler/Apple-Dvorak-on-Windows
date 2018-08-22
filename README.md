@@ -13,13 +13,13 @@ Now you can use the Apple Dvorak Keyboard.
 Use the "Windows Keyboard Layout Editor" ( found it in installer folder) and open the **.klc** file and make the changes you want. If you did something useful, do not exitate to create a pull request for me.
 
 ## Images
-![Apple Keyboard Dvorak](images/Apple Keyboard 1.png)
+![Apple Keyboard Dvorak](images/Apple%20Keyboard%201.png)
 
-![Apple Keyboard Dvorak](images/Apple Keyboard 2.png)
+![Apple Keyboard Dvorak](images/Apple%20Keyboard%202.png)
 
-![Apple Keyboard Dvorak](images/Apple Keyboard 3.png)
+![Apple Keyboard Dvorak](images/Apple%20Keyboard%203.png)
 
-![Apple Keyboard Dvorak](images/Apple Keyboard 4.png)
+![Apple Keyboard Dvorak](images/Apple%20Keyboard%204.png)
 
 ![Windows Keyboard Layout Creator](images/Windows.jpg)
 
@@ -28,7 +28,7 @@ Use the "Windows Keyboard Layout Editor" ( found it in installer folder) and ope
 2. For a better use, you need to execute the auxiliar software (Auxiliar Software folder) each time Windows starts.
 3. If your computer wake up without the `fn` key working, you can refresh the connection (an Auxiliar Software feature) and it will work again, like in the image:
 
-![Refreshing connection](images/Refresh connection.jpg)
+![Refreshing connection](images/Refresh%20connection.jpg)
 
 ## Known issues
 1. In some cases, on the Login prompt of Windows change the layout to default. After you log in, Dvorak layout is actived automatically.
